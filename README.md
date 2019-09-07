@@ -1,2 +1,2 @@
 # Swift Calculator
-A calculator written in swift for the command line.
+A calculator written in Swift for the command line.
